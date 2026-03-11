@@ -1,0 +1,9 @@
+[package]
+name = "exercise-template"
+version = "0.1.0"
+authors = ["Aarni Haapaniemi"]
+license = "MIT"
+description = "Exercise template"
+
+entrypoint = "template.typ"
+compiler = "0.14.2"
