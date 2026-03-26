@@ -74,7 +74,7 @@
   show link: set text(fill: blue)
   show link: underline
   
-  show math.equation.where(block: false): box
+  // show math.equation.where(block: false): box
 
   show math.equation.where(block: false): set math.frac(style: "horizontal")
 
